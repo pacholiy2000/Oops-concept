@@ -1,5 +1,4 @@
 
-
 interface Sample {
     String run();
     default void hello() {
